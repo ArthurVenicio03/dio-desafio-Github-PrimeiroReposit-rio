@@ -1,0 +1,5 @@
+git clone //Clonar rpositórios
+git add// adicionar
+git status// ver o status do arquivo
+git commit -m ""// adicionar o que é o arquivo
+git push origin main // levar para o github
